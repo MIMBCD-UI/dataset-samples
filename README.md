@@ -79,7 +79,7 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 <span class="image">
   <a href="https://europa.eu/" title="EU" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" width="10%" />
   </a>
 </span>
 <span class="image">

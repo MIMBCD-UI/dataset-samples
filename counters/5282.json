@@ -1,0 +1,189 @@
+{
+    "rawData": {
+        "studyId": "5282",
+        "modality": "Breast",
+        "stacks": [
+            {
+                "seriesDescription": "MG",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/3ea91193-d664157d-cdc5e876-fd2b7010-8b9f462f/file"
+                ],
+                "seriesIndex": 0,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/7aae3a41-051f2909-3e1bc940-1b75e78a-55915f67/file"
+                ],
+                "seriesIndex": 1,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "3",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/89f90986-52a79581-81d5cfef-f0a594b3-f33df53c/file"
+                ],
+                "seriesIndex": 2,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "4",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/fddde464-e57f3f55-fc5c0b82-5ee8ea9c-afa8acc4/file"
+                ],
+                "seriesIndex": 3,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/0e7c5fac-ef55ae7c-ec56e356-74ac42c2-f4f2a32a/file"
+                ],
+                "seriesIndex": 4,
+                "currentImageIdIndex": 0,
+                "freehand": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": [
+                            {
+                                "x": 303.91999999999996,
+                                "y": 93.44666666666666,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 305.34666666666664,
+                                        "y": 79.17999999999999
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 305.34666666666664,
+                                "y": 79.17999999999999,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 323.89333333333326,
+                                        "y": 79.89333333333333
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 323.89333333333326,
+                                "y": 79.89333333333333,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 341.72666666666663,
+                                        "y": 78.46666666666665
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 341.72666666666663,
+                                "y": 78.46666666666665,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 361.69999999999993,
+                                        "y": 82.74666666666666
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 361.69999999999993,
+                                "y": 82.74666666666666,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 372.3999999999999,
+                                        "y": 99.15333333333332
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 372.3999999999999,
+                                "y": 99.15333333333332,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 369.5466666666666,
+                                        "y": 111.27999999999999
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 369.5466666666666,
+                                "y": 111.27999999999999,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 349.57333333333327,
+                                        "y": 115.55999999999999
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 349.57333333333327,
+                                "y": 115.55999999999999,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 330.3133333333333,
+                                        "y": 111.27999999999999
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 330.3133333333333,
+                                "y": 111.27999999999999,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 303.91999999999996,
+                                        "y": 93.44666666666666,
+                                        "highlight": true,
+                                        "active": true,
+                                        "lines": [
+                                            {
+                                                "x": 305.34666666666664,
+                                                "y": 79.17999999999999
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "highlight": false
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "1",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/adf49420-c035cd33-64053e3c-fad3de69-ac9cead4/file"
+                ],
+                "seriesIndex": 5,
+                "currentImageIdIndex": 0
+            }
+        ],
+        "currentStack": 4
+    },
+    "path": "5282.json"
+}

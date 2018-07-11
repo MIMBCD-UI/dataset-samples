@@ -1,0 +1,247 @@
+{
+    "rawData": {
+        "studyId": "1948",
+        "modality": "Ecografia Mamaria",
+        "stacks": [
+            {
+                "seriesDescription": "MG",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/fdd70fc9-7b49dbcc-909307b2-7289b392-631cd119/file"
+                ],
+                "seriesIndex": 0,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/ea7dd2f8-fe00eec7-9fd096e4-0f79d630-5f96df9f/file"
+                ],
+                "seriesIndex": 1,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/e11247e8-db77e302-11f8277f-fdf4fa35-303cf8e3/file"
+                ],
+                "seriesIndex": 2,
+                "currentImageIdIndex": 0,
+                "freehand": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": [
+                            {
+                                "x": 500.12666666666655,
+                                "y": 1624.4466666666667,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 622.8366666666666,
+                                        "y": 1513.4233333333334
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 622.8366666666666,
+                                "y": 1513.4233333333334,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 932.5333333333333,
+                                        "y": 1647.8200000000002
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 932.5333333333333,
+                                "y": 1647.8200000000002,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 990.9666666666667,
+                                        "y": 1957.5166666666669
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 990.9666666666667,
+                                "y": 1957.5166666666669,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 681.27,
+                                        "y": 2126.9733333333334
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 681.27,
+                                "y": 2126.9733333333334,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 605.3066666666664,
+                                        "y": 2027.6366666666668
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 605.3066666666664,
+                                "y": 2027.6366666666668,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 412.47666666666646,
+                                        "y": 1963.3600000000001
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 412.47666666666646,
+                                "y": 1963.3600000000001,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 377.4166666666665,
+                                        "y": 1864.0233333333335
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 377.4166666666665,
+                                "y": 1864.0233333333335,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 488.4399999999996,
+                                        "y": 1793.9033333333334
+                                    }
+                                ]
+                            },
+                            {
+                                "x": 488.4399999999996,
+                                "y": 1793.9033333333334,
+                                "highlight": true,
+                                "active": true,
+                                "lines": [
+                                    {
+                                        "x": 500.12666666666655,
+                                        "y": 1624.4466666666667,
+                                        "highlight": true,
+                                        "active": true,
+                                        "lines": [
+                                            {
+                                                "x": 622.8366666666666,
+                                                "y": 1513.4233333333334
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "highlight": false
+                    }
+                ],
+                "probe": [
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 938.3766666666666,
+                                "y": 2220.4666666666667,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1131.2066666666665,
+                                "y": 1753,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 1242.23,
+                                "y": 2512.6333333333337,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 763.0766666666664,
+                                "y": 2687.9333333333334,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    },
+                    {
+                        "visible": true,
+                        "active": false,
+                        "handles": {
+                            "end": {
+                                "x": 260.5499999999997,
+                                "y": 2401.61,
+                                "highlight": true,
+                                "active": false
+                            }
+                        },
+                        "invalidated": true
+                    }
+                ]
+            },
+            {
+                "seriesDescription": "MG",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/4b0a1df2-33a4eb24-668e55e3-38e78de2-8fd79191/file"
+                ],
+                "seriesIndex": 3,
+                "currentImageIdIndex": 0
+            },
+            {
+                "seriesDescription": "US",
+                "stackId": "2",
+                "imageIds": [
+                    "wadouri://localhost:8048/instances/a12cba36-662c93c9-0a1bf320-585d3bee-8de13d1f/file"
+                ],
+                "seriesIndex": 4,
+                "currentImageIdIndex": 0
+            }
+        ],
+        "currentStack": 2
+    },
+    "path": "1948.json"
+}

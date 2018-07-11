@@ -6,7 +6,7 @@ In this repository, we provide several samples of our generated data, between ot
 
 ## Information
 
-As far as we have to do several statictical analysis over our users, we need to address their results by calculating a set of measures. This measures will gave us a better understanding regarding how users are aiming to interact with our systems. Therefore it is of chief importance to scale this solution for a spreadsheet template-like where we can duplicate the same document and apply this group of source code to consume our data each time we need it.
+As far as we have to do several data manipulation over our dataset, we need to address the hereby information for several measures. This measures will gave us a better understanding regarding the system dataset. Therefore it is of chief importance to scale this solution for a set of samples also.
 
 ### Acknowledgements
 

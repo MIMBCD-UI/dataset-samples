@@ -1,5 +1,8 @@
 {
     "rawData": {
+        "clinitian": "Francisco Rosa",
+        "institution": "HFF",
+        "time": "213",
         "studyId": "4272",
         "modality": "Breast",
         "stacks": [

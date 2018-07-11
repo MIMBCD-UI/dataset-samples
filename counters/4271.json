@@ -1,5 +1,8 @@
 {
     "rawData": {
+        "clinitian": "Pedro Mendes",
+        "institution": "HFF",
+        "time": "212",
         "studyId": "4271",
         "modality": "Breast",
         "stacks": [

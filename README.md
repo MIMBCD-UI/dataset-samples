@@ -38,6 +38,11 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
     <img src="https://github.com/mida-project/meta/blob/master/brands/ist_footer.png" alt="ist" width="20%" />
   </a>
 </span>
+<span class="image">
+  <a href="http://hff.min-saude.pt/" title="HFF" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/hff_footer.png" alt="hff" width="20%" />
+  </a>
+</span>
 
 ## Departments
 

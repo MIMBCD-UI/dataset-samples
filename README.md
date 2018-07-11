@@ -84,6 +84,6 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 </span>
 <span class="image">
   <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt"/>
+    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="10%" />
   </a>
 </span>

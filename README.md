@@ -35,7 +35,7 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 </span>
 <span class="image">
   <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_c_rgb_pos_footer.png" alt="ist" width="10%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_footer.png" alt="ist" width="10%" />
   </a>
 </span>
 

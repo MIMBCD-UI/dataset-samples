@@ -1,5 +1,5 @@
 # Dataset Samples
 
-<img src="https://github.com/mida-project/meta/blob/master/banners/dataset-samples_851x315.png?raw=true" />
+<img src="https://github.com/mida-project/meta/blob/master/banners/dataset-samples_851x315.png?raw=true" width="auto" />
 
 In this repository, we provide several samples of our generated data, between others, as several samples of datasets. The purpose of this repository is to give access to some samples of our working data. Therefore, contributors can use this information to provide their contributions with respective proposals and prototypes consuming our dataset samples. It is part of the work done by [ISR-Lisboa](http://welcome.isr.tecnico.ulisboa.pt/) and [M-ITI](https://www.m-iti.org/), two [R&D Units](http://larsys.pt/index.php/facilities/) of [LARSyS](http://larsys.pt/). The project also involves the collaborative effort of [INESC-ID](http://www.inesc-id.pt/). Both [ISR-Lisboa](http://welcome.isr.tecnico.ulisboa.pt/) and [INESC-ID](http://www.inesc-id.pt/) are [Associate Laboratories](https://tecnico.ulisboa.pt/en/research-and-innovation/rd/associate-laboratories/) of [IST](http://tecnico.ulisboa.pt/) from [ULisboa](https://www.ulisboa.pt/).

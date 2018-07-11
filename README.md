@@ -60,8 +60,8 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 ## Laboratories
 
 <span class="image">
-  <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" width="20%" />
+  <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg" width="20%" />
   </a>
 </span>
 <span class="image">
@@ -70,13 +70,18 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
   </a>
 </span>
 <span class="image">
-  <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg" width="20%" />
+  <a href="http://larsys.pt/" title="LARSys" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys" width="20%" />
   </a>
 </span>
 <span class="image">
-  <a href="http://larsys.pt/" title="LARSys" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys" width="20%" />
+  <a href="https://www.m-iti.org/" title="M-ITI" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/miti_footer.png" alt="inesc-id" width="20%" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" width="20%" />
   </a>
 </span>
 

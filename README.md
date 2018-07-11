@@ -65,8 +65,8 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
   </a>
 </span>
 <span class="image">
-  <a href="http://welcome.isr.tecnico.ulisboa.pt/projects_cat/sipg/" title="SIGP" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/sigp_footer.png" alt="sigp"/>
+  <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
+    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg"/>
   </a>
 </span>
 <span class="image">
@@ -75,7 +75,7 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
   </a>
 </span>
 
-## Countries
+## Places
 
 <span class="image">
   <a href="https://europa.eu/" title="EU" target="_blank">

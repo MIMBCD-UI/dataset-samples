@@ -20,22 +20,22 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 <span class="image">
   <a href="http://www.fct.pt/" title="FCT" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/fct_footer.png" alt="fct" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fct_footer.png" alt="fct" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="https://www.fccn.pt/en/" title="FCCN" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/fccn_footer.png" alt="fccn" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/fccn_footer.png" alt="fccn" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="https://www.ulisboa.pt/en/" title="ULisboa" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_c_rgb_pos_footer.png" alt="ist" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/ist_c_rgb_pos_footer.png" alt="ist" width="25%" />
   </a>
 </span>
 
@@ -43,12 +43,12 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 <span class="image">
   <a href="http://dei.tecnico.ulisboa.pt" title="DEI" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/dei_footer.png" alt="dei" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/dei_footer.png" alt="dei" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="http://deec.tecnico.ulisboa.pt" title="DEEC" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/deec_footer.png" alt="dei" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/deec_footer.png" alt="dei" width="25%" />
   </a>
 </span>
 
@@ -56,22 +56,22 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 <span class="image">
   <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="http://sipg.isr.tecnico.ulisboa.pt/" title="SIPG" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg"/>
+    <img src="https://github.com/mida-project/meta/blob/master/brands/sipg_footer.png" alt="sipg" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="http://larsys.pt/" title="LARSys" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys"/>
+    <img src="https://github.com/mida-project/meta/blob/master/brands/larsys_footer.png" alt="larsys" width="25%" />
   </a>
 </span>
 
@@ -79,11 +79,11 @@ A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the prop
 
 <span class="image">
   <a href="https://europa.eu/" title="EU" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" width="10%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/eu_footer.png" alt="eu" width="25%" />
   </a>
 </span>
 <span class="image">
   <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
-    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="10%" />
+    <img src="https://github.com/mida-project/meta/blob/master/brands/pt_footer.png" alt="pt" width="25%" />
   </a>
 </span>

@@ -2,7 +2,7 @@
     "rawData": {
         "clinitian": "Maria Campos",
         "institution": "HSJ",
-        "time": "127",
+        "time": 127,
         "studyId": "3160",
         "modality": "Breast",
         "stacks": [
